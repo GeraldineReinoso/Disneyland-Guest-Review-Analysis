@@ -45,17 +45,12 @@ Python, pandas, scikit-learn, NLTK, spaCy, Plotly, WordCloud
 ## 👤 Co-Authors
 Naveen Karan Krishna
 
-Ato Kwamena Essiem
-
-Charles Ifeanyi Okpala
-
-Jonada Golemaj
+Thi Anh Tram Le
 
 ---
 
 ## 🙌 Acknowledgements
-- Kaggle datasets and other open-source repositories used in the project.  
-- TeslaDeaths.com for crash data reference.  
+- Kaggle datasets was used in the project.  
 
 ---
 
